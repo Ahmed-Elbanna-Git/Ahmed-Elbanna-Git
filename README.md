@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fvisme.co%2Fblog%2Fwp-content%2Fuploads%2F2020%2F03%2Fanimation-software-header.gif&imgrefurl=https%3A%2F%2Fvisme.co%2Fblog%2Fanimation-software%2F&tbnid=4vD01ul46TkXZM&vet=12ahUKEwjHrMuA4_T8AhWW47sIHRFIBtEQMygAegUIARDlAQ..i&docid=TQPp3qvFAy4NNM&w=1200&h=672&q=software%20cartoon%20gif&ved=2ahUKEwjHrMuA4_T8AhWW47sIHRFIBtEQMygAegUIARDlAQ" width="300"/>
+  <img src="https://media.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif" width="300"/>
 <div id="badges">
   <a href="https://www.linkedin.com/in/ahmed-elbanna-17016513a">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
