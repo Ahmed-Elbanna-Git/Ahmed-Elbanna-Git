@@ -14,8 +14,8 @@
 <h2> Hi, I'm Ahmed Elbanna ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 from Egypt .
-- :telescope: I’m currently working on:
-  - Implementing New Packages For Laravel Comunity 
+##telescope: I’m currently working on:
+  -Implementing New Packages For Laravel Comunity 
   -[Laravel Api Generetor](https://github.com/khaledAbodaif/laravel-voucher-package) 
   -[Tamoto PHP](https://docs.tomatophp.com) 
   - _Implementing Dashboard Generator Using
@@ -40,11 +40,6 @@ from Egypt .
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp;
 </div>
-  <h4>Mobile </h4>
-  <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" title="ionic" alt="ionic" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-<div>
   <h4>Front-End </h4>
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title="angularjs" alt="angularjs" width="40" height="40"/>&nbsp;
