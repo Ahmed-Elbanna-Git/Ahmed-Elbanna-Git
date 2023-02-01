@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif" width="300"/>
+  <img src="https://giphy.com/gifs/life-hacker-Ah3zHH7hvsSB2" width="300"/>
 <div id="badges">
   <a href="https://www.linkedin.com/in/ahmed-elbanna-17016513a">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
